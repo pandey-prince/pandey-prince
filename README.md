@@ -4,8 +4,15 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Building+Cool+Stuff+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
-  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%2B+TypeScript+%7C+Ex-Intern+%40+Softflew;Building+Real+Products+%F0%9F%92%BB;Open+to+SDE+%26+Full-Stack+Roles+%2B+Freelance)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <a href="https://portfolio-princepandey.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prince-pandey123/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/dev___guy"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/pandey___prince20/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </div>
 
 ---
@@ -121,7 +128,9 @@ const prince = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-pandey123/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-indol-ten-82.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-princepandey.vercel.app/)
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev___guy)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pandey___prince20/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.princepandey@gmail.com)
 
 </div>
@@ -131,7 +140,9 @@ const prince = {
 ### 📫 How to Reach Me
 
 - 💼 **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/prince-pandey123/)
-- 🌐 **Portfolio**: [Check out my work](https://portfolio-indol-ten-82.vercel.app/)
+- 🌐 **Portfolio**: [Check out my work](https://portfolio-princepandey.vercel.app/)
+- 🐦 **Twitter/X**: [@dev___guy](https://x.com/dev___guy)
+- 🧩 **LeetCode**: [pandey___prince20](https://leetcode.com/u/pandey___prince20/)
 - 📧 **Email**: work.princepandey@gmail.com
 
 ---
