@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://portfolio-princepandey.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/prince-pandey123/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/dev___guy"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <!-- <a href="https://x.com/dev___guy"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> -->
   <a href="https://leetcode.com/u/pandey___prince20/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </div>
 
@@ -36,8 +36,7 @@ const prince = {
         devOps: ["Docker", "AWS", "Vercel"],
         tools: ["Git", "Prisma", "Postman"]
     },
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    currentFocus: "Building scalable full-stack applications"
 };
 ```
 
@@ -129,7 +128,6 @@ const prince = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-pandey123/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-princepandey.vercel.app/)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev___guy)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pandey___prince20/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.princepandey@gmail.com)
 
@@ -141,7 +139,6 @@ const prince = {
 
 - 💼 **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/prince-pandey123/)
 - 🌐 **Portfolio**: [Check out my work](https://portfolio-princepandey.vercel.app/)
-- 🐦 **Twitter/X**: [@dev___guy](https://x.com/dev___guy)
 - 🧩 **LeetCode**: [pandey___prince20](https://leetcode.com/u/pandey___prince20/)
 - 📧 **Email**: work.princepandey@gmail.com
 
